@@ -62,6 +62,7 @@ public class Practicum {
                 }
             }
         };
+
         StringsSaver saver = new StringsSaver(config);
         saver.save("Пользователь залогинился");
         saver.save("ERROR Пользователь загрузил фото");
